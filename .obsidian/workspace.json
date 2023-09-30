@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "20c61c3c49298243",
+        "id": "23b10c4c93646ec1",
         "type": "tabs",
         "children": [
           {
-            "id": "76a092e8c4ad3cbb",
+            "id": "33bae18470934d42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Bandit Level 15 → Level 16.md",
+                "file": "primer-examen-parcial/parte3/plumbing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf2970e34d6022a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "plantilla_v1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Bandit Level 15 → Level 16.md",
+                "file": "primer-examen-parcial/parte3/plumbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Bandit Level 15 → Level 16.md",
+                "file": "primer-examen-parcial/parte3/plumbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Bandit Level 15 → Level 16.md"
+                "file": "primer-examen-parcial/parte3/plumbing.md"
+              }
+            }
+          },
+          {
+            "id": "b4e4d8ff46ba9e88",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -139,39 +161,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir quick switcher": false,
-      "graph:Abrir vista de gráfico": false,
-      "canvas:Create new canvas": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "76a092e8c4ad3cbb",
+  "active": "33bae18470934d42",
   "lastOpenFiles": [
-    "retos-bandit/Bandit Level 14 → Level 15.md",
-    "retos-bandit/Bandit Level 15 → Level 16.md",
-    "retos-bandit/Level 0.md",
+    "plantilla_v1.md",
+    "primer-examen-parcial/parte3/plumbing.md",
+    "primer-examen-parcial/parte2/First Grep.md",
+    "primer-examen-parcial/parte2/convertme.py.md",
+    "primer-examen-parcial/parte2/Codebook.md",
+    "primer-examen-parcial/parte2/Bases.md",
+    "primer-examen-parcial/parte2/2Warm.md",
+    "primer-examen-parcial/parte1/Wave a flag.md",
+    "primer-examen-parcial/parte1/Warmed Up.md",
+    "primer-examen-parcial/parte1/Tab, Tab, Attack.md",
+    "primer-examen-parcial/parte1/Static ain't always noise.md",
+    "primer-examen-parcial/parte1/Obedient Cat.md",
+    "primer-examen-parcial/parte1/Nice netcat....md",
+    "primer-examen-parcial/parte1/Magikarp Ground Mission.md",
+    "primer-examen-parcial/parte1/Lets Warm Up.md",
+    "primer-examen-parcial/parte3/Based.md",
+    "primer-examen-parcial/parte3/runme.py.md",
+    "primer-examen-parcial/parte3/PW Crack 3.md",
+    "primer-examen-parcial/parte3/PW Crack 2.md",
+    "primer-examen-parcial/parte3/Glitch Cat.md",
+    "primer-examen-parcial/parte3/fixme2.py.md",
+    "primer-examen-parcial/parte3/PW Crack 1.md",
+    "primer-examen-parcial/parte2/fixme1.py.md",
+    "primer-examen-parcial/parte2/whats a net cat.md",
+    "primer-examen-parcial/parte2/strings it.md",
     "retos-bandit/plantilla.md",
-    "retos-bandit/Bandit Level 11 → Level 12.md",
-    "retos-bandit/Bandit Level 13 → Level 14.md",
-    "retos-bandit/Bandit Level 12 → Level 13.md",
-    "retos-bandit/Bandit Level 10 → Level 11.md",
-    "retos-bandit/Bandit Level 0 → Level 1.md",
-    "retos-bandit/Bandit Level 1 → Level 2.md",
-    "retos-bandit/Bandit Level 2 → Level 3.md",
-    "retos-bandit/Bandit Level 3 → Level 4.md",
-    "retos-bandit/Bandit Level 4 → Level 5.md",
-    "retos-bandit/Bandit Level 5 → Level 6.md",
-    "retos-bandit/Bandit Level 6 → Level 7.md",
-    "retos-bandit/Bandit Level 7 → Level 8.md",
-    "retos-bandit/Bandit Level 8 → Level 9.md",
-    "retos-bandit/Bandit Level 9 → Level 10.md",
-    "README.md",
+    "primer-examen-parcial/parte3",
+    "primer-examen-parcial/parte2",
+    "primer-examen-parcial/parte1",
+    "primer-examen-parcial",
     "retos-bandit",
-    "Comandos.md",
-    "Ciberseguridad.md",
-    "2023-08-23.md",
     "Untitled.canvas"
   ]
 }
