@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "primer-examen-parcial/parte3/plumbing.md",
+                "file": "ejercicios-web/Client-side-again.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "primer-examen-parcial/parte3/plumbing.md",
+                "file": "ejercicios-web/Client-side-again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "primer-examen-parcial/parte3/plumbing.md",
+                "file": "ejercicios-web/Client-side-again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "primer-examen-parcial/parte3/plumbing.md"
+                "file": "ejercicios-web/Client-side-again.md"
               }
             }
           },
@@ -171,8 +171,22 @@
   },
   "active": "33bae18470934d42",
   "lastOpenFiles": [
+    "ejercicios-web/dont-use-client-side.md",
+    "ejercicios-web/picobrowser.md",
     "plantilla_v1.md",
+    "ejercicios-web/Client-side-again.md",
+    "ejercicios-web/logon.md",
+    "ejercicios-web/where are the robots.md",
+    "ejercicios-web/Insp3ct0r.md",
+    "primer-examen-parcial/parte3/PW Crack 2.md",
+    "ejercicios-web",
+    "Sin título.md",
+    "primer-examen-parcial/parte3/PW Crack 3.md",
+    "primer-examen-parcial/parte3/PW Crack 1.md",
     "primer-examen-parcial/parte3/plumbing.md",
+    "primer-examen-parcial/parte3/Glitch Cat.md",
+    "primer-examen-parcial/parte3/fixme2.py.md",
+    "primer-examen-parcial/parte3/Based.md",
     "primer-examen-parcial/parte2/First Grep.md",
     "primer-examen-parcial/parte2/convertme.py.md",
     "primer-examen-parcial/parte2/Codebook.md",
@@ -184,19 +198,6 @@
     "primer-examen-parcial/parte1/Static ain't always noise.md",
     "primer-examen-parcial/parte1/Obedient Cat.md",
     "primer-examen-parcial/parte1/Nice netcat....md",
-    "primer-examen-parcial/parte1/Magikarp Ground Mission.md",
-    "primer-examen-parcial/parte1/Lets Warm Up.md",
-    "primer-examen-parcial/parte3/Based.md",
-    "primer-examen-parcial/parte3/runme.py.md",
-    "primer-examen-parcial/parte3/PW Crack 3.md",
-    "primer-examen-parcial/parte3/PW Crack 2.md",
-    "primer-examen-parcial/parte3/Glitch Cat.md",
-    "primer-examen-parcial/parte3/fixme2.py.md",
-    "primer-examen-parcial/parte3/PW Crack 1.md",
-    "primer-examen-parcial/parte2/fixme1.py.md",
-    "primer-examen-parcial/parte2/whats a net cat.md",
-    "primer-examen-parcial/parte2/strings it.md",
-    "retos-bandit/plantilla.md",
     "primer-examen-parcial/parte3",
     "primer-examen-parcial/parte2",
     "primer-examen-parcial/parte1",
