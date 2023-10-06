@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ejercicios-web/Client-side-again.md",
+                "file": "Metared-CTF/Hidden instruction.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ejercicios-web/Client-side-again.md",
+                "file": "Metared-CTF/Hidden instruction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ejercicios-web/Client-side-again.md",
+                "file": "Metared-CTF/Hidden instruction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ejercicios-web/Client-side-again.md"
+                "file": "Metared-CTF/Hidden instruction.md"
               }
             }
           },
@@ -171,13 +171,32 @@
   },
   "active": "33bae18470934d42",
   "lastOpenFiles": [
-    "ejercicios-web/dont-use-client-side.md",
-    "ejercicios-web/picobrowser.md",
+    "Metared-CTF/Find the message.md",
+    "Metared-CTF/Poor security.md",
+    "Metared-CTF/Hidden instruction.md",
+    "Pasted image 20231004212327.png",
+    "Pasted image 20231004211943.png",
+    "Pasted image 20231004210357.png",
+    "Pasted image 20231004205805.png",
     "plantilla_v1.md",
+    "Pasted image 20231004193756.png",
+    "Pasted image 20231004193520.png",
+    "Pasted image 20231004171510.png",
+    "Pasted image 20231004170925.png",
+    "Pasted image 20231004170756.png",
+    "Pasted image 20231004170550.png",
     "ejercicios-web/Client-side-again.md",
-    "ejercicios-web/logon.md",
+    "Metared-CTF",
+    "ejercicios-web/dont-use-client-side.md",
     "ejercicios-web/where are the robots.md",
+    "ejercicios-web/picobrowser.md",
+    "ejercicios-web/logon.md",
     "ejercicios-web/Insp3ct0r.md",
+    "retos-web-part2/Irish-Name-Repo 1.md",
+    "retos-web-part2/JaWT Scratchpad.md",
+    "retos-web-part2/Irish-Name-Repo 3.md",
+    "retos-web-part2/Irish-Name-Repo 2.md",
+    "retos-web-part2",
     "primer-examen-parcial/parte3/PW Crack 2.md",
     "ejercicios-web",
     "Sin título.md",
@@ -190,14 +209,6 @@
     "primer-examen-parcial/parte2/First Grep.md",
     "primer-examen-parcial/parte2/convertme.py.md",
     "primer-examen-parcial/parte2/Codebook.md",
-    "primer-examen-parcial/parte2/Bases.md",
-    "primer-examen-parcial/parte2/2Warm.md",
-    "primer-examen-parcial/parte1/Wave a flag.md",
-    "primer-examen-parcial/parte1/Warmed Up.md",
-    "primer-examen-parcial/parte1/Tab, Tab, Attack.md",
-    "primer-examen-parcial/parte1/Static ain't always noise.md",
-    "primer-examen-parcial/parte1/Obedient Cat.md",
-    "primer-examen-parcial/parte1/Nice netcat....md",
     "primer-examen-parcial/parte3",
     "primer-examen-parcial/parte2",
     "primer-examen-parcial/parte1",
