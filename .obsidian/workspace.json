@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metared-CTF/Hidden instruction.md",
+                "file": "Metared-CTF/Poor security.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metared-CTF/Hidden instruction.md",
+                "file": "Metared-CTF/Poor security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metared-CTF/Hidden instruction.md",
+                "file": "Metared-CTF/Poor security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metared-CTF/Hidden instruction.md"
+                "file": "Metared-CTF/Poor security.md"
               }
             }
           },
@@ -171,9 +171,10 @@
   },
   "active": "33bae18470934d42",
   "lastOpenFiles": [
-    "Metared-CTF/Find the message.md",
-    "Metared-CTF/Poor security.md",
     "Metared-CTF/Hidden instruction.md",
+    "Metared-CTF/Find the message.md",
+    "retos-web-part2/JaWT Scratchpad.md",
+    "Metared-CTF/Poor security.md",
     "Pasted image 20231004212327.png",
     "Pasted image 20231004211943.png",
     "Pasted image 20231004210357.png",
@@ -193,7 +194,6 @@
     "ejercicios-web/logon.md",
     "ejercicios-web/Insp3ct0r.md",
     "retos-web-part2/Irish-Name-Repo 1.md",
-    "retos-web-part2/JaWT Scratchpad.md",
     "retos-web-part2/Irish-Name-Repo 3.md",
     "retos-web-part2/Irish-Name-Repo 2.md",
     "retos-web-part2",
