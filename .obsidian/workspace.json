@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "33bae18470934d42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-web-part2/JaWT Scratchpad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bf2970e34d6022a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plantilla_v1.md",
+                "file": "retos-web-part3/Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-web-part2/JaWT Scratchpad.md",
+                "file": "retos-web-part3/Scavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-web-part2/JaWT Scratchpad.md",
+                "file": "retos-web-part3/Scavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-web-part2/JaWT Scratchpad.md"
+                "file": "retos-web-part3/Scavenger Hunt.md"
               }
             }
           },
@@ -169,24 +157,29 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "33bae18470934d42",
+  "active": "bf2970e34d6022a3",
   "lastOpenFiles": [
+    "retos-web-part3/Cookies.md",
+    "retos-web-part3/GET aHEAD.md",
+    "Pasted image 20231011111945.png",
+    "retos-web-part3/Scavenger Hunt.md",
+    "Pasted image 20231011111215.png",
+    "Pasted image 20231011111107.png",
+    "Pasted image 20231011110838.png",
+    "Pasted image 20231011110706.png",
+    "Pasted image 20231011110532.png",
+    "Pasted image 20231011110225.png",
+    "Pasted image 20231011110200.png",
+    "plantilla_v1.md",
+    "Web 863a3cdab87449c985c1b49358e932e3/Untitled 7.png.md",
+    "Web 863a3cdab87449c985c1b49358e932e3",
+    "retos-web-part2/JaWT Scratchpad.md",
+    "retos-web-part3",
     "Pasted image 20231010144741.png",
     "Pasted image 20231010144617.png",
     "Metared-CTF/Poor security.md",
     "Metared-CTF/Hidden instruction.md",
     "Metared-CTF/Find the message.md",
-    "retos-web-part2/JaWT Scratchpad.md",
-    "Pasted image 20231004212327.png",
-    "Pasted image 20231004211943.png",
-    "Pasted image 20231004210357.png",
-    "Pasted image 20231004205805.png",
-    "plantilla_v1.md",
-    "Pasted image 20231004193756.png",
-    "Pasted image 20231004193520.png",
-    "Pasted image 20231004171510.png",
-    "Pasted image 20231004170925.png",
-    "Pasted image 20231004170756.png",
     "ejercicios-web/Client-side-again.md",
     "Metared-CTF",
     "ejercicios-web/dont-use-client-side.md",
@@ -206,10 +199,6 @@
     "primer-examen-parcial/parte3/plumbing.md",
     "primer-examen-parcial/parte3/Glitch Cat.md",
     "primer-examen-parcial/parte3/fixme2.py.md",
-    "primer-examen-parcial/parte3/Based.md",
-    "primer-examen-parcial/parte2/First Grep.md",
-    "primer-examen-parcial/parte2/convertme.py.md",
-    "primer-examen-parcial/parte2/Codebook.md",
     "primer-examen-parcial/parte3",
     "primer-examen-parcial/parte2",
     "primer-examen-parcial/parte1",
