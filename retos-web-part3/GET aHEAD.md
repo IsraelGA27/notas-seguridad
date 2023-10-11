@@ -6,7 +6,7 @@ Find the flag being held on this server to get ahead of the competition [http:/
 
 ## Solución
 ![[Pasted image 20231011112436.png]]
-
+Uso curl porque no tengo firefox.
 ![[Pasted image 20231011111945.png]]
 
 ## Notas adicionales
