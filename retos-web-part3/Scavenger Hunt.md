@@ -2,7 +2,7 @@
 
 ## Problema
 There is some interesting information hidden around this site [http://mercury.picoctf.net:44070/](http://mercury.picoctf.net:39698/). Can you find it?
-## Solucion
+## Solución
 
 Tenemos que buscar en los archivos fuentes para encontrar la bandera
 ![[Pasted image 20231011110532.png]]

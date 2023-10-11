@@ -6,7 +6,8 @@
 
 Find the flag being held on this server to get ahead of the competition [http://mercury.picoctf.net:21939/](http://mercury.picoctf.net:21939/)
 
-## Solucion
+## Solución
+![[Pasted image 20231011112436.png]]
 
 ![[Pasted image 20231011111945.png]]
 
