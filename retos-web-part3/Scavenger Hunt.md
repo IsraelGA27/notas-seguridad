@@ -1,6 +1,6 @@
 ## **Scavenger Hunt**
 
-## Problema
+## Objetivo
 There is some interesting information hidden around this site [http://mercury.picoctf.net:44070/](http://mercury.picoctf.net:39698/). Can you find it?
 ## Solución
 
@@ -14,7 +14,7 @@ En algunas paginas por defecto guardan en un servidor apache algunas configuraci
 ![[Pasted image 20231011111107.png]]
 Nos pide que busquemos en otro sitio [https://en.wikipedia.org/wiki/.DS_Store](https://en.wikipedia.org/wiki/.DS_Store). .DS_store guarda mucha mas informacion
 ![[Pasted image 20231011111215.png]]
-
+## Notas adicionales
 picoCTF{t
 h4ts_4_l0
 t_0f_pl4c
