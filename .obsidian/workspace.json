@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "23b10c4c93646ec1",
+        "id": "213ac14bbea088f1",
         "type": "tabs",
         "children": [
           {
-            "id": "bf2970e34d6022a3",
+            "id": "2b92c2f0b435412a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-web-part3/GET aHEAD.md",
+                "file": "Retos-Forensic-P1/What Lies Within.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4624d4844f0bb5d9",
+            "id": "a957cd33f87c2cf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-web-part3/GET aHEAD.md",
+                "file": "Retos-Forensic-P1/What Lies Within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-web-part3/GET aHEAD.md",
+                "file": "Retos-Forensic-P1/What Lies Within.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-web-part3/GET aHEAD.md"
+                "file": "Retos-Forensic-P1/What Lies Within.md"
               }
             }
           },
@@ -169,26 +169,34 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bf2970e34d6022a3",
+  "active": "2b92c2f0b435412a",
   "lastOpenFiles": [
-    "retos-web-part3/Scavenger Hunt.md",
+    "Pasted image 20231018110256.png",
+    "Pasted image 20231018110141.png",
     "plantilla_v1.md",
-    "retos-web-part3/GET aHEAD.md",
-    "retos-web-part3/Cookies.md",
-    "Pasted image 20231011112436.png",
-    "Pasted image 20231011111945.png",
-    "Pasted image 20231011111215.png",
-    "Pasted image 20231011111107.png",
-    "Pasted image 20231011110838.png",
-    "Pasted image 20231011110706.png",
-    "Pasted image 20231011110532.png",
-    "Pasted image 20231011110225.png",
-    "Pasted image 20231011110200.png",
+    "Retos-Forensic-P1/What Lies Within.md",
+    "Retos-Forensic-P1/So Meta.md",
+    "Pasted image 20231018105714.png",
+    "Pasted image 20231018105607.png",
+    "Retos-Forensic-P1/shark on wire 1.md",
+    "Pasted image 20231018105050.png",
+    "Pasted image 20231018104905.png",
+    "Pasted image 20231018104846.png",
+    "Retos-Forensic-P1/extensions.md",
+    "Pasted image 20231018103710.png",
+    "Pasted image 20231018103513.png",
+    "Pasted image 20231018103312.png",
+    "Retos-Forensic-P1/Glory of the Garden.md",
+    "Retos-Forensic-P1/Sin título",
+    "Pasted image 20231018102530.png",
     "Web 863a3cdab87449c985c1b49358e932e3/Untitled 7.png.md",
+    "Retos-Forensic-P1",
+    "retos-web-part3/GET aHEAD.md",
+    "retos-web-part3/Scavenger Hunt.md",
+    "retos-web-part3/Cookies.md",
     "Web 863a3cdab87449c985c1b49358e932e3",
     "retos-web-part2/JaWT Scratchpad.md",
     "retos-web-part3",
-    "Pasted image 20231010144741.png",
     "Metared-CTF/Poor security.md",
     "Metared-CTF/Hidden instruction.md",
     "Metared-CTF/Find the message.md",
@@ -206,16 +214,9 @@
     "primer-examen-parcial/parte3/PW Crack 2.md",
     "ejercicios-web",
     "Sin título.md",
-    "primer-examen-parcial/parte3/PW Crack 3.md",
-    "primer-examen-parcial/parte3/PW Crack 1.md",
-    "primer-examen-parcial/parte3/plumbing.md",
-    "primer-examen-parcial/parte3/Glitch Cat.md",
-    "primer-examen-parcial/parte3/fixme2.py.md",
     "primer-examen-parcial/parte3",
     "primer-examen-parcial/parte2",
     "primer-examen-parcial/parte1",
-    "primer-examen-parcial",
-    "retos-bandit",
     "Untitled.canvas"
   ]
 }
