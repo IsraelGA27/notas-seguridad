@@ -4,47 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "213ac14bbea088f1",
+        "id": "6ee1f8496b030d74",
         "type": "tabs",
         "children": [
           {
-            "id": "2b92c2f0b435412a",
+            "id": "a26afe9f0bcfb925",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-web-part3/Scavenger Hunt.md",
+                "file": "Retos-Forensic-P2/shark on wire 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a957cd33f87c2cf3",
+            "id": "34a75a9a943af145",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "plantilla_v1.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "390accd21ba05b4b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9365233c25a2f29e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-web-part2/Irish-Name-Repo 1.md",
-                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -99,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 200
   },
   "right": {
     "id": "d8a1397d09967ed4",
@@ -115,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-web-part3/Scavenger Hunt.md",
+                "file": "Retos-Forensic-P2/shark on wire 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-web-part3/Scavenger Hunt.md",
+                "file": "Retos-Forensic-P2/shark on wire 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-web-part3/Scavenger Hunt.md"
+                "file": "Retos-Forensic-P2/shark on wire 2.md"
               }
             }
           },
@@ -170,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -187,54 +170,55 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2b92c2f0b435412a",
+  "active": "a26afe9f0bcfb925",
   "lastOpenFiles": [
-    "retos-web-part3/GET aHEAD.md",
+    "Adjuntos-General/Pasted image 20231025110350.png",
+    "Adjuntos-General/Pasted image 20231025110232.png",
+    "Adjuntos-General/Pasted image 20231025110031.png",
+    "plantilla_v1.md",
+    "Retos-Forensic-P2/shark on wire 2.md",
+    "Retos-Forensic-P2/WhitePages.md",
+    "Adjuntos-General/Pasted image 20231025105750.png",
+    "Retos-Forensic-P2/m00nwalk.md",
+    "Adjuntos-General/Pasted image 20231025103212.png",
+    "Adjuntos-General/Pasted image 20231025103208.png",
+    "Retos-Forensic-P2/like1000.md",
+    "Adjuntos-General/Pasted image 20231025102623.png",
+    "Retos-Forensic-P2/c0rrupt.md",
+    "Adjuntos-General/Pasted image 20231025101913.png",
+    "Adjuntos-General/Pasted image 20231025101905.png",
+    "Adjuntos-General/Pasted image 20231025101807.png",
+    "Adjuntos-General/Pasted image 20231025101612.png",
     "retos-web-part3/Cookies.md",
+    "Retos-Forensic-P2",
+    "Metared-CTF/Hidden instruction.md",
+    "Adjuntos-General/Sin título.canvas",
+    "Adjuntos-General",
+    "Metared-CTF/mCTF-png",
+    "Retos-Forensic-P1/rfp1-png",
+    "retos-web-part2/rwp3-png",
+    "retos-web-part3/Scavenger Hunt.md",
+    "retos-web-part3/rwp3-png",
+    "retos-web-part3/GET aHEAD.md",
     "retos-web-part2/JaWT Scratchpad.md",
     "retos-web-part2/Irish-Name-Repo 3.md",
     "retos-web-part2/Irish-Name-Repo 2.md",
-    "Pasted image 20231004105011.png",
     "retos-web-part2/Irish-Name-Repo 1.md",
-    "Pasted image 20231004104254.png",
     "Retos-Forensic-P1/What Lies Within.md",
     "Retos-Forensic-P1/So Meta.md",
     "Retos-Forensic-P1/shark on wire 1.md",
     "Retos-Forensic-P1/Glory of the Garden.md",
     "Retos-Forensic-P1/extensions.md",
-    "Retos-Forensic-P1/Pasted image 20231018102530.png",
-    "Retos-Forensic-P1/Pasted image 20231018102319.png",
-    "Retos-Forensic-P1/Pasted image 20231018102217.png",
     "ejercicios-web/where are the robots.md",
     "ejercicios-web/picobrowser.md",
     "ejercicios-web/logon.md",
     "ejercicios-web/Insp3ct0r.md",
     "ejercicios-web/dont-use-client-side.md",
     "ejercicios-web/Client-side-again.md",
-    "Metared-CTF/Poor security.md",
-    "Metared-CTF/Hidden instruction.md",
-    "Metared-CTF/Find the message.md",
-    "primer-examen-parcial/parte3/runme.py.md",
-    "primer-examen-parcial/parte3/PW Crack 3.md",
-    "primer-examen-parcial/parte3/PW Crack 2.md",
-    "primer-examen-parcial/parte3/PW Crack 1.md",
-    "primer-examen-parcial/parte3/plumbing.md",
-    "primer-examen-parcial/parte3/Glitch Cat.md",
-    "retos-web-part3/Pasted image 20231011110225.png",
-    "retos-web-part2/Pasted image 20231004105621.png",
-    "retos-web-part2/Pasted image 20231004105502.png",
-    "retos-web-part2/Pasted image 20231004105010.png",
-    "retos-web-part2/Pasted image 20231004104434.png",
-    "Retos-Forensic-P1/Sin título",
     "Retos-Forensic-P1",
     "Web 863a3cdab87449c985c1b49358e932e3",
     "retos-web-part3",
     "Metared-CTF",
-    "retos-web-part2",
-    "ejercicios-web",
-    "primer-examen-parcial/parte3",
-    "primer-examen-parcial/parte2",
-    "primer-examen-parcial/parte1",
     "Untitled.canvas"
   ]
 }
