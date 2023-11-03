@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "segundo-examne-parcial/Parcial-2-P2-Retos-Forensic/Enhance!.md",
+                "file": "retos-Crypto-P2/rsa-pop-quiz.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "segundo-examne-parcial/Parcial-2-P2-Retos-Forensic/Enhance!.md",
+                "file": "retos-Crypto-P2/rsa-pop-quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "segundo-examne-parcial/Parcial-2-P2-Retos-Forensic/Enhance!.md",
+                "file": "retos-Crypto-P2/rsa-pop-quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "segundo-examne-parcial/Parcial-2-P2-Retos-Forensic/Enhance!.md"
+                "file": "retos-Crypto-P2/rsa-pop-quiz.md"
               }
             }
           },
@@ -170,26 +170,30 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9c3dc0873d8f0ac7",
+  "active": "a26afe9f0bcfb925",
   "lastOpenFiles": [
+    "retos-Crypto-P2/miniRSA.md",
+    "retos-Crypto-P2/b00tl3gRSA2.md",
+    "Adjuntos-General/Pasted image 20231103052618.png",
+    "plantilla_v1.md",
+    "Adjuntos-General/Pasted image 20231103051952.png",
+    "Adjuntos-General/Pasted image 20231103051807.png",
+    "Adjuntos-General/Pasted image 20231103051612.png",
+    "Adjuntos-General/Pasted image 20231103051452.png",
+    "Adjuntos-General/Pasted image 20231103051352.png",
+    "retos-Crypto-P2/rsa-pop-quiz.md",
+    "retos-Crypto-P2",
+    "segundo-examne-parcial/Parcial-2-P2-Retos-Forensic/Enhance!.md",
     "segundo-examne-parcial/Parcial-2-P2-Retos-Forensic/St3g0.md",
     "Adjuntos-General/Pasted image 20231103030228.png",
-    "plantilla_v1.md",
     "segundo-examne-parcial/Parcial-2-P2-Retos-Forensic/Redaction gone wrong.md",
     "Adjuntos-General/Pasted image 20231103025426.png",
     "segundo-examne-parcial/Parcial-2-P2-Retos-Forensic/Packets Primer.md",
     "Adjuntos-General/Pasted image 20231103025207.png",
     "Adjuntos-General/Pasted image 20231103025155.png",
     "segundo-examne-parcial/Parcial-2-P2-Retos-Forensic/Lookey here.md",
-    "Adjuntos-General/Pasted image 20231103024944.png",
-    "segundo-examne-parcial/Parcial-2-P2-Retos-Forensic/Enhance!.md",
-    "Adjuntos-General/Pasted image 20231103024724.png",
     "segundo-examne-parcial/Parcial-2-P2-Retos-Forensic/Wireshark doo dooo do doo....md",
-    "Adjuntos-General/Pasted image 20231103024231.png",
-    "Adjuntos-General/Pasted image 20231103024222.png",
-    "Adjuntos-General/Pasted image 20231103024217.png",
     "segundo-examne-parcial/Parcial-2-P2-Retos-Forensic/information.md",
-    "Adjuntos-General/Pasted image 20231103023640.png",
     "segundo-examne-parcial/Parcial-2-P1-Retos-Web/SQL Direct.md",
     "segundo-examne-parcial/Parcial-2-P2-Retos-Forensic",
     "segundo-examne-parcial",
@@ -201,23 +205,19 @@
     "segundo-examne-parcial/Parcial-2-P1-Retos-Web/Local Authority.md",
     "segundo-examne-parcial/Parcial-2-P1-Retos-Web/Inspect HTML.md",
     "segundo-examne-parcial/Parcial-2-P1-Retos-Web/Includes.md",
-    "retos-Cripto-P1/la cifra de.md",
+    "retos-Crypto-P1/la cifra de.md",
     "segundo-examne-parcial/Parcial-2-P1-Retos-Web",
-    "retos-Cripto-P1/Easy1.md",
-    "retos-Cripto-P1/caesar.md",
-    "retos-Cripto-P1/13.md",
-    "retos-Cripto-P1/waves over lambda.md",
-    "retos-Cripto-P1/The Numbers.md",
-    "retos-Cripto-P1/Tapping.md",
-    "Retos-Forensic-P3/MacroHard WeakEdge.md",
-    "retos-Cripto-P1",
+    "retos-Crypto-P1/Easy1.md",
+    "retos-Crypto-P1/caesar.md",
+    "retos-Crypto-P1/13.md",
+    "retos-Crypto-P1/waves over lambda.md",
+    "retos-Crypto-P1",
     "Retos-Forensic-P3",
     "Retos-Forensic-P2",
     "Adjuntos-General/Sin título.canvas",
     "Adjuntos-General",
     "Metared-CTF/mCTF-png",
     "Retos-Forensic-P1/rfp1-png",
-    "retos-web-part2/rwp3-png",
     "Untitled.canvas"
   ]
 }
