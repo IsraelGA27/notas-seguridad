@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-Cripto-P1/waves over lambda.md",
+                "file": "Parcial-1/Parcial-2-P2-Retos-Forensic/Enhance!.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-Cripto-P1/waves over lambda.md",
+                "file": "Parcial-1/Parcial-2-P2-Retos-Forensic/Enhance!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-Cripto-P1/waves over lambda.md",
+                "file": "Parcial-1/Parcial-2-P2-Retos-Forensic/Enhance!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-Cripto-P1/waves over lambda.md"
+                "file": "Parcial-1/Parcial-2-P2-Retos-Forensic/Enhance!.md"
               }
             }
           },
@@ -172,53 +172,52 @@
   },
   "active": "a26afe9f0bcfb925",
   "lastOpenFiles": [
-    "Adjuntos-General/Pasted image 20231031212807.png",
+    "Parcial-1/Parcial-2-P2-Retos-Forensic/St3g0.md",
+    "Adjuntos-General/Pasted image 20231103030228.png",
     "plantilla_v1.md",
+    "Parcial-1/Parcial-2-P2-Retos-Forensic/Redaction gone wrong.md",
+    "Adjuntos-General/Pasted image 20231103025426.png",
+    "Parcial-1/Parcial-2-P2-Retos-Forensic/Packets Primer.md",
+    "Adjuntos-General/Pasted image 20231103025207.png",
+    "Adjuntos-General/Pasted image 20231103025155.png",
+    "Parcial-1/Parcial-2-P2-Retos-Forensic/Lookey here.md",
+    "Adjuntos-General/Pasted image 20231103024944.png",
+    "Parcial-1/Parcial-2-P2-Retos-Forensic/Enhance!.md",
+    "Adjuntos-General/Pasted image 20231103024724.png",
+    "Parcial-1/Parcial-2-P2-Retos-Forensic/Wireshark doo dooo do doo....md",
+    "Adjuntos-General/Pasted image 20231103024231.png",
+    "Adjuntos-General/Pasted image 20231103024222.png",
+    "Adjuntos-General/Pasted image 20231103024217.png",
+    "Parcial-1/Parcial-2-P2-Retos-Forensic/information.md",
+    "Adjuntos-General/Pasted image 20231103023640.png",
+    "Parcial-1/Parcial-2-P1-Retos-Web/SQL Direct.md",
+    "Parcial-1/Parcial-2-P2-Retos-Forensic",
+    "Parcial-1",
+    "Parcial-1/Parcial-2-P1-Retos-Web/Secrets.md",
+    "Parcial-1/Parcial-2-P1-Retos-Web/Roboto Sans.md",
+    "Parcial-1/Parcial-2-P1-Retos-Web/Power Cookie.md",
+    "Parcial-1/Parcial-2-P1-Retos-Web/Forbidden Paths.md",
+    "Parcial-1/Parcial-2-P1-Retos-Web/Search source.md",
+    "Parcial-1/Parcial-2-P1-Retos-Web/Local Authority.md",
+    "Parcial-1/Parcial-2-P1-Retos-Web/Inspect HTML.md",
+    "Parcial-1/Parcial-2-P1-Retos-Web/Includes.md",
+    "retos-Cripto-P1/la cifra de.md",
+    "Parcial-1/Parcial-2-P1-Retos-Web",
+    "retos-Cripto-P1/Easy1.md",
+    "retos-Cripto-P1/caesar.md",
+    "retos-Cripto-P1/13.md",
     "retos-Cripto-P1/waves over lambda.md",
     "retos-Cripto-P1/The Numbers.md",
-    "Adjuntos-General/Pasted image 20231031212328.png",
-    "Adjuntos-General/Pasted image 20231031212256.png",
     "retos-Cripto-P1/Tapping.md",
-    "Adjuntos-General/Pasted image 20231030213234.png",
-    "retos-Cripto-P1/la cifra de.md",
-    "Adjuntos-General/Pasted image 20231030212829.png",
-    "retos-Cripto-P1/Easy1.md",
-    "Adjuntos-General/Pasted image 20231030212509.png",
-    "retos-Cripto-P1/13.md",
-    "retos-Cripto-P1/caesar.md",
-    "Adjuntos-General/Pasted image 20231030212147.png",
-    "Adjuntos-General/Pasted image 20231030211917.png",
     "Retos-Forensic-P3/MacroHard WeakEdge.md",
     "retos-Cripto-P1",
-    "Retos-Forensic-P3/WebNet1.md",
-    "Adjuntos-General/Pasted image 20231030211134.png",
-    "Adjuntos-General/Pasted image 20231030211042.png",
-    "Retos-Forensic-P3/tunn3l v1s10n.md",
-    "Adjuntos-General/Pasted image 20231030210842.png",
-    "Retos-Forensic-P3/Matryoshka doll.md",
-    "Retos-Forensic-P3/WebNet0.md",
-    "Retos-Forensic-P2/shark on wire 2.md",
     "Retos-Forensic-P3",
-    "Retos-Forensic-P2/WhitePages.md",
-    "Retos-Forensic-P2/m00nwalk.md",
-    "Retos-Forensic-P2/like1000.md",
-    "Retos-Forensic-P2/c0rrupt.md",
-    "retos-web-part3/Cookies.md",
     "Retos-Forensic-P2",
-    "Metared-CTF/Hidden instruction.md",
     "Adjuntos-General/Sin título.canvas",
     "Adjuntos-General",
     "Metared-CTF/mCTF-png",
     "Retos-Forensic-P1/rfp1-png",
     "retos-web-part2/rwp3-png",
-    "retos-web-part3/Scavenger Hunt.md",
-    "retos-web-part3/rwp3-png",
-    "retos-web-part3/GET aHEAD.md",
-    "retos-web-part2/JaWT Scratchpad.md",
-    "retos-web-part2/Irish-Name-Repo 3.md",
-    "retos-web-part2/Irish-Name-Repo 2.md",
-    "Retos-Forensic-P1",
-    "Web 863a3cdab87449c985c1b49358e932e3",
     "Untitled.canvas"
   ]
 }
