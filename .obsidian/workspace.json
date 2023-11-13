@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-Reversing-P1/vault-door-5.md",
+                "file": "retos-Reversing-P2/asm2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-Reversing-P1/vault-door-5.md",
+                "file": "retos-Reversing-P2/asm2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-Reversing-P1/vault-door-5.md",
+                "file": "retos-Reversing-P2/asm2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-Reversing-P1/vault-door-5.md"
+                "file": "retos-Reversing-P2/asm2.md"
               }
             }
           },
@@ -172,8 +172,13 @@
   },
   "active": "34a75a9a943af145",
   "lastOpenFiles": [
+    "retos-Reversing-P2/asm3.md",
+    "Adjuntos-General/Pasted image 20231113025858.png",
+    "retos-Reversing-P2/asm2.md",
     "plantilla_v1.md",
+    "retos-Reversing-P2/asm1.md",
     "retos-Reversing-P1/vault-door-5.md",
+    "retos-Reversing-P2",
     "retos-Reversing-P1/vault-door-4.md",
     "retos-Reversing-P1/vault-door-3.md",
     "retos-Reversing-P1/vault-door-1.md",
@@ -197,7 +202,6 @@
     "retos-Crypto-P2/miniRSA.md",
     "retos-Crypto-P2/rsa-pop-quiz.md",
     "Adjuntos-General/Pasted image 20231103052618.png",
-    "Adjuntos-General/Pasted image 20231103051952.png",
     "retos-Crypto-P2",
     "segundo-examne-parcial/Parcial-2-P2-Retos-Forensic/Enhance!.md",
     "segundo-examne-parcial/Parcial-2-P2-Retos-Forensic/St3g0.md",
@@ -209,16 +213,11 @@
     "segundo-examne-parcial/Parcial-2-P1-Retos-Web/SQL Direct.md",
     "segundo-examne-parcial/Parcial-2-P2-Retos-Forensic",
     "segundo-examne-parcial",
-    "segundo-examne-parcial/Parcial-2-P1-Retos-Web/Secrets.md",
-    "segundo-examne-parcial/Parcial-2-P1-Retos-Web/Roboto Sans.md",
-    "segundo-examne-parcial/Parcial-2-P1-Retos-Web/Power Cookie.md",
-    "segundo-examne-parcial/Parcial-2-P1-Retos-Web/Forbidden Paths.md",
     "segundo-examne-parcial/Parcial-2-P1-Retos-Web",
     "retos-Crypto-P1",
     "Retos-Forensic-P3",
     "Retos-Forensic-P2",
     "Adjuntos-General/Sin título.canvas",
-    "Adjuntos-General",
     "Untitled.canvas"
   ]
 }
