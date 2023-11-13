@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-Crypto-P3/ReadMyCert.md",
+                "file": "retos-Reversing-P1/vault-door-5.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-Crypto-P3/ReadMyCert.md",
+                "file": "retos-Reversing-P1/vault-door-5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-Crypto-P3/ReadMyCert.md",
+                "file": "retos-Reversing-P1/vault-door-5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-Crypto-P3/ReadMyCert.md"
+                "file": "retos-Reversing-P1/vault-door-5.md"
               }
             }
           },
@@ -172,19 +172,25 @@
   },
   "active": "34a75a9a943af145",
   "lastOpenFiles": [
-    "Adjuntos-General/Pasted image 20231108012459.png",
     "plantilla_v1.md",
+    "retos-Reversing-P1/vault-door-5.md",
+    "retos-Reversing-P1/vault-door-4.md",
+    "retos-Reversing-P1/vault-door-3.md",
+    "retos-Reversing-P1/vault-door-1.md",
+    "retos-Reversing-P1/vault-door-training.md",
+    "retos-Crypto-P3/basic-mod1.md",
+    "retos-Reversing-P1",
+    "retos-Crypto-P3/Mind your Ps and Qs.md",
+    "retos-Crypto-P3/HideToSee.md",
     "retos-Crypto-P3/ReadMyCert.md",
     "retos-Crypto-P3/Pixelated.md",
+    "Adjuntos-General/Pasted image 20231108012459.png",
     "Adjuntos-General/Pasted image 20231108011906.png",
     "Adjuntos-General/Pasted image 20231108011759.png",
-    "retos-Crypto-P3/HideToSee.md",
     "Adjuntos-General/Pasted image 20231108011558.png",
     "Adjuntos-General/Pasted image 20231108010847.png",
-    "retos-Crypto-P3/basic-mod1.md",
     "Adjuntos-General/Pasted image 20231108005431.png",
     "Adjuntos-General/Pasted image 20231108005013.png",
-    "retos-Crypto-P3/Mind your Ps and Qs.md",
     "Adjuntos-General/Pasted image 20231108004153.png",
     "retos-Crypto-P2/b00tl3gRSA2.md",
     "retos-Crypto-P3",
@@ -192,7 +198,6 @@
     "retos-Crypto-P2/rsa-pop-quiz.md",
     "Adjuntos-General/Pasted image 20231103052618.png",
     "Adjuntos-General/Pasted image 20231103051952.png",
-    "Adjuntos-General/Pasted image 20231103051807.png",
     "retos-Crypto-P2",
     "segundo-examne-parcial/Parcial-2-P2-Retos-Forensic/Enhance!.md",
     "segundo-examne-parcial/Parcial-2-P2-Retos-Forensic/St3g0.md",
@@ -208,17 +213,12 @@
     "segundo-examne-parcial/Parcial-2-P1-Retos-Web/Roboto Sans.md",
     "segundo-examne-parcial/Parcial-2-P1-Retos-Web/Power Cookie.md",
     "segundo-examne-parcial/Parcial-2-P1-Retos-Web/Forbidden Paths.md",
-    "segundo-examne-parcial/Parcial-2-P1-Retos-Web/Search source.md",
-    "segundo-examne-parcial/Parcial-2-P1-Retos-Web/Local Authority.md",
-    "segundo-examne-parcial/Parcial-2-P1-Retos-Web/Inspect HTML.md",
-    "segundo-examne-parcial/Parcial-2-P1-Retos-Web/Includes.md",
     "segundo-examne-parcial/Parcial-2-P1-Retos-Web",
     "retos-Crypto-P1",
     "Retos-Forensic-P3",
     "Retos-Forensic-P2",
     "Adjuntos-General/Sin título.canvas",
     "Adjuntos-General",
-    "Metared-CTF/mCTF-png",
     "Untitled.canvas"
   ]
 }

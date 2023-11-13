@@ -5,7 +5,7 @@ We found this weird message being passed around on the servers, we think we have
 ```shell
 La descripción muestra el cifrado con las siguientes reglas:
 128 322 353 235 336 73 198 332 202 285 57 87 262 221 218 405 335 101 256 227 112 140 
-
+[[basic-mod1]]
 Vamos a leer message.txt y calcula el mod37.
 ```
 ```python
