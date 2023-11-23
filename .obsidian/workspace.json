@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-Reversing-P3/Need For Speed.md",
+                "file": "Examenes/tercer-examen-parcial/SRA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-Reversing-P3/Need For Speed.md",
+                "file": "Examenes/tercer-examen-parcial/SRA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-Reversing-P3/Need For Speed.md",
+                "file": "Examenes/tercer-examen-parcial/SRA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-Reversing-P3/Need For Speed.md"
+                "file": "Examenes/tercer-examen-parcial/SRA.md"
               }
             }
           },
@@ -172,18 +172,27 @@
   },
   "active": "34a75a9a943af145",
   "lastOpenFiles": [
-    "Adjuntos-General/Pasted image 20231113035535.png",
     "plantilla_v1.md",
-    "retos-Reversing-P3/Need For Speed.md",
+    "Examenes/tercer-examen-parcial/SRA.md",
+    "Examenes/tercer-examen-parcial/Mr-Worldwide.md",
+    "Examenes/tercer-examen-parcial/Flags.md",
+    "Examenes/tercer-examen-parcial/transposition-trial.md",
+    "Examenes/tercer-examen-parcial/Vigenere.md",
+    "Adjuntos-General/Pasted image 20231123071128.png",
+    "Adjuntos-General/Pasted image 20231123070557.png",
     "retos-Reversing-P3/reverse_cipher.md",
-    "Adjuntos-General/Pasted image 20231113035040.png",
+    "Examenes",
+    "Examenes/tercer-examen-parcial",
+    "retos-Reversing-P3/Need For Speed.md",
     "retos-Reversing-P3/Safe Opener 2.md",
-    "Adjuntos-General/Pasted image 20231113033843.png",
     "retos-Reversing-P3/GDB Test Drive.md",
+    "retos-Reversing-P2/asm3.md",
+    "Adjuntos-General/Pasted image 20231113035535.png",
+    "Adjuntos-General/Pasted image 20231113035040.png",
+    "Adjuntos-General/Pasted image 20231113033843.png",
     "Adjuntos-General/Pasted image 20231113033028.png",
     "retos-Reversing-P2/asm2.md",
     "retos-Reversing-P3",
-    "retos-Reversing-P2/asm3.md",
     "Adjuntos-General/Pasted image 20231113025858.png",
     "retos-Reversing-P2/asm1.md",
     "retos-Reversing-P1/vault-door-5.md",
@@ -201,23 +210,14 @@
     "Adjuntos-General/Pasted image 20231108012459.png",
     "Adjuntos-General/Pasted image 20231108011906.png",
     "Adjuntos-General/Pasted image 20231108011759.png",
-    "Adjuntos-General/Pasted image 20231108011558.png",
-    "Adjuntos-General/Pasted image 20231108010847.png",
-    "Adjuntos-General/Pasted image 20231108005431.png",
     "retos-Crypto-P2/b00tl3gRSA2.md",
     "retos-Crypto-P3",
     "retos-Crypto-P2/miniRSA.md",
     "retos-Crypto-P2/rsa-pop-quiz.md",
     "retos-Crypto-P2",
-    "segundo-examne-parcial/Parcial-2-P2-Retos-Forensic/Enhance!.md",
-    "segundo-examne-parcial/Parcial-2-P2-Retos-Forensic/St3g0.md",
-    "segundo-examne-parcial/Parcial-2-P2-Retos-Forensic/Redaction gone wrong.md",
-    "segundo-examne-parcial/Parcial-2-P2-Retos-Forensic/Packets Primer.md",
-    "segundo-examne-parcial/Parcial-2-P2-Retos-Forensic",
-    "segundo-examne-parcial",
-    "segundo-examne-parcial/Parcial-2-P1-Retos-Web",
-    "retos-Crypto-P1",
-    "Retos-Forensic-P3",
+    "Examenes/segundo-examen-parcial/Parcial-2-P2-Retos-Forensic",
+    "Examenes/segundo-examen-parcial",
+    "Examenes/segundo-examen-parcial/Parcial-2-P1-Retos-Web",
     "Adjuntos-General/Sin título.canvas",
     "Untitled.canvas"
   ]
