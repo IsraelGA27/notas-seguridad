@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Examenes/tercer-examen-parcial/SRA.md",
+                "file": "Examenes/tercer-examen-parcial/Parte2-Retos-Reversing/GDB baby step 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 269.5
   },
   "right": {
     "id": "d8a1397d09967ed4",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Examenes/tercer-examen-parcial/SRA.md",
+                "file": "Examenes/tercer-examen-parcial/Parte2-Retos-Reversing/GDB baby step 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Examenes/tercer-examen-parcial/SRA.md",
+                "file": "Examenes/tercer-examen-parcial/Parte2-Retos-Reversing/GDB baby step 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Examenes/tercer-examen-parcial/SRA.md"
+                "file": "Examenes/tercer-examen-parcial/Parte2-Retos-Reversing/GDB baby step 2.md"
               }
             }
           },
@@ -172,12 +172,21 @@
   },
   "active": "34a75a9a943af145",
   "lastOpenFiles": [
+    "Examenes/tercer-examen-parcial/Parte2-Retos-Reversing/GDB baby step 1.md",
+    "Examenes/tercer-examen-parcial/Parte2-Retos-Reversing/GDB baby step 2.md",
     "plantilla_v1.md",
-    "Examenes/tercer-examen-parcial/SRA.md",
-    "Examenes/tercer-examen-parcial/Mr-Worldwide.md",
-    "Examenes/tercer-examen-parcial/Flags.md",
-    "Examenes/tercer-examen-parcial/transposition-trial.md",
-    "Examenes/tercer-examen-parcial/Vigenere.md",
+    "Examenes/tercer-examen-parcial/Parte2-Retos-Reversing/Bit-O-Asm-4.md",
+    "Examenes/tercer-examen-parcial/Parte2-Retos-Reversing/ASCII FTW.md",
+    "Examenes/tercer-examen-parcial/Parte2-Retos-Reversing/Bit-O-Asm-1.md",
+    "Examenes/tercer-examen-parcial/Parte2-Retos-Reversing/Bit-O-Asm-2.md",
+    "Examenes/tercer-examen-parcial/Parte2-Retos-Reversing/Bit-O-Asm-3.md",
+    "Examenes/tercer-examen-parcial/Parte1-Retos-Crypto/SRA.md",
+    "Examenes/tercer-examen-parcial/Parte2-Retos-Reversing",
+    "Examenes/tercer-examen-parcial/Parte1-Retos-Crypto",
+    "Examenes/tercer-examen-parcial/Parte1-Retos-Crypto/Mr-Worldwide.md",
+    "Examenes/tercer-examen-parcial/Parte1-Retos-Crypto/Flags.md",
+    "Examenes/tercer-examen-parcial/Parte1-Retos-Crypto/transposition-trial.md",
+    "Examenes/tercer-examen-parcial/Parte1-Retos-Crypto/Vigenere.md",
     "Adjuntos-General/Pasted image 20231123071128.png",
     "Adjuntos-General/Pasted image 20231123070557.png",
     "retos-Reversing-P3/reverse_cipher.md",
@@ -203,21 +212,12 @@
     "retos-Reversing-P1/vault-door-training.md",
     "retos-Crypto-P3/basic-mod1.md",
     "retos-Reversing-P1",
-    "retos-Crypto-P3/Mind your Ps and Qs.md",
-    "retos-Crypto-P3/HideToSee.md",
-    "retos-Crypto-P3/ReadMyCert.md",
-    "retos-Crypto-P3/Pixelated.md",
     "Adjuntos-General/Pasted image 20231108012459.png",
     "Adjuntos-General/Pasted image 20231108011906.png",
     "Adjuntos-General/Pasted image 20231108011759.png",
-    "retos-Crypto-P2/b00tl3gRSA2.md",
     "retos-Crypto-P3",
-    "retos-Crypto-P2/miniRSA.md",
-    "retos-Crypto-P2/rsa-pop-quiz.md",
     "retos-Crypto-P2",
     "Examenes/segundo-examen-parcial/Parcial-2-P2-Retos-Forensic",
-    "Examenes/segundo-examen-parcial",
-    "Examenes/segundo-examen-parcial/Parcial-2-P1-Retos-Web",
     "Adjuntos-General/Sin título.canvas",
     "Untitled.canvas"
   ]
